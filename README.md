@@ -1,1 +1,3 @@
-Small Lunar Lander Project for the course Mixed Reality, Simulation & Testing.
+# Lunar Lander Unity Project
+
+Small Lunar Lander Unity Project for the course Mixed Reality, Simulation & Testing.
